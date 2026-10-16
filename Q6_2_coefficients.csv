@@ -1,0 +1,9 @@
+Feature,Univariate slope,Multivariate coefficient
+Cement (component 1)(kg in a m^3 mixture),0.080783734,0.132448871
+Blast Furnace Slag (component 2)(kg in a m^3 mixture),0.031598422,0.124727696
+Fly Ash (component 3)(kg in a m^3 mixture),-0.053404321,0.106147155
+Water  (component 4)(kg in a m^3 mixture),-0.207016488,-0.134100019
+Superplasticizer (component 5)(kg in a m^3 mixture),0.88814147,0.117238708
+Coarse Aggregate  (component 6)(kg in a m^3 mixture),-0.027381579,0.028546518
+Fine Aggregate (component 7)(kg in a m^3 mixture),-0.030581653,0.033835038
+Age (day),0.095208413,0.118804281
